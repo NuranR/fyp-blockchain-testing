@@ -1,0 +1,391 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1760886862939,
+    "transactions": [],
+    "previousHash": "0",
+    "proposerPublicKey": "GENESIS",
+    "hash": "32369d15916932bd1ade51c0cae9f32f5ded2cccd29d81d7eec27066c813e39d",
+    "signature": {
+      "r": "c74b29f552ad2029ccd5dcdfbb2ff318766e83831688ae756abe2534b0b1123f",
+      "s": "41c12c92ddff734fb113a9716e7996b6434301ebbbfe58d587ea4c3561c6c881",
+      "recoveryParam": 0
+    },
+    "luckProof": null
+  },
+  {
+    "index": 1,
+    "timestamp": 1760886898143,
+    "transactions": [
+      {
+        "id": "512b7ac0-acfe-11f0-ac97-c11a1bdb1416",
+        "timestamp": 1760886873201,
+        "sensor_id": "sensor-610",
+        "reading": { "value": 19.24 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:14:33.194Z",
+          "unit": "Celsius"
+        },
+        "hash": "8d1fe173016d6158297517baebc63691f870f8b767ab6fe9a041ff05ece730f7",
+        "input": {
+          "timestamp": 1760886873202,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "7dadf953b1040ea5d46fa03829d4061f6ca437323e5423e8f5352ec069f7be9a",
+            "s": "b7243085d17a3e0e9b98d1b9751ea368062e1d3043257a8a1642be674a5c5f5b",
+            "recoveryParam": 0
+          }
+        }
+      },
+      {
+        "id": "572182d0-acfe-11f0-ac97-c11a1bdb1416",
+        "timestamp": 1760886883197,
+        "sensor_id": "sensor-205",
+        "reading": { "value": 37.83 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:14:43.197Z",
+          "unit": "Celsius"
+        },
+        "hash": "a24fb684db8a3565a013b4536282f88a548f044532a9ee7ba118347c971c6c5e",
+        "input": {
+          "timestamp": 1760886883197,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "d6ba7316e7b5176ab7f001ae9d89c61c9a3f838a68f45fea8bf7056ecabe2560",
+            "s": "b2ffdfbb3a48c2383e7ffe6c10ae64176ab51af02884b0b4da4324526d62f04d",
+            "recoveryParam": 0
+          }
+        }
+      },
+      {
+        "id": "5d17b1f0-acfe-11f0-ac97-c11a1bdb1416",
+        "timestamp": 1760886893199,
+        "sensor_id": "sensor-190",
+        "reading": { "value": 2.36 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:14:53.198Z",
+          "unit": "Celsius"
+        },
+        "hash": "1906d66332bfbbbcadcae766de3ebde17a52832cce266215c458156086c9373d",
+        "input": {
+          "timestamp": 1760886893200,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "ade30e3c81ab04968907cb97a23382aeb7db3bec3dd51018f0ff337a72c5e87e",
+            "s": "8e88a2bf4112e5f157430ce53d7764b5d8b879f9959e42664fa2ae08c51fa9da",
+            "recoveryParam": 1
+          }
+        }
+      }
+    ],
+    "previousHash": "32369d15916932bd1ade51c0cae9f32f5ded2cccd29d81d7eec27066c813e39d",
+    "proposerPublicKey": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+    "hash": "096b0b9b41b99386ae7ec754605c778dd9a42f0dc6eda7a99b63729cda66a47e",
+    "signature": {
+      "r": "900fce51a50b74ba48f37b6553220feaeb4198cad38211f673f7ae8f7dd218f8",
+      "s": "39fff31baeeb2e89da79fce5b247f17f4093d4eb651e90d483180287efe73752",
+      "recoveryParam": 0
+    },
+    "luckProof": null
+  },
+  {
+    "index": 2,
+    "timestamp": 1760887018167,
+    "transactions": [
+      {
+        "id": "9bd2cec0-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760886998446,
+        "sensor_id": "sensor-173",
+        "reading": { "value": 53.58 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:16:38.442Z",
+          "unit": "Celsius"
+        },
+        "hash": "c498e7e6e8b9da1a1e36c90c274aa4713eaeecfb7a37d7e08f61be4d7ce1f67e",
+        "input": {
+          "timestamp": 1760886998448,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "1698fb97172df328256dd761237e65f05e3091e700b1dc28e74a587f8def5c43",
+            "s": "c34ea185dd9d8aaf0753d46aaf16038377c3b52f5c26f90cb75bcc28d45aba05",
+            "recoveryParam": 0
+          }
+        }
+      },
+      {
+        "id": "a09d9d40-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887006484,
+        "sensor_id": "pi-moisture-sensor-01",
+        "reading": { "type": "moisture", "value": "dry", "unit": "state" },
+        "metadata": {
+          "timestamp": "2025-10-19T15:16:46.209Z",
+          "gatewayId": "raspberry-pi-3"
+        },
+        "hash": "4671cd38c0bef730b81193afe138529246e66329ae8e7deb57499805031ef6a0",
+        "input": {
+          "timestamp": 1760887006485,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "cb36289aac098badbd495c725f68ca5a7d68c0d3603f1ddee600d8249a52a605",
+            "s": "7c552a456ddec016c2ecf4fce021cc84fed6a0c64686719d9ef38cb8ed95df66",
+            "recoveryParam": 0
+          }
+        }
+      },
+      {
+        "id": "a1c861a0-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887008442,
+        "sensor_id": "sensor-189",
+        "reading": { "value": 98.44 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:16:48.441Z",
+          "unit": "Celsius"
+        },
+        "hash": "2e91b0a440b6366777f68cc6cf6b5081cb1c2664e0f135014fb80b1a382e68b9",
+        "input": {
+          "timestamp": 1760887008442,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "d39bc1f1a1a849a41977689513ef2e3a2c7cf4ba6e59f7984e9458ee65650806",
+            "s": "7e9ef1cf1fd4453188760ef82019a5df1ffae8cf6f38cca6556eea9f1a02f664",
+            "recoveryParam": 1
+          }
+        }
+      },
+      {
+        "id": "a66f0650-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887016246,
+        "sensor_id": "pi-moisture-sensor-01",
+        "reading": { "type": "moisture", "value": "dry", "unit": "state" },
+        "metadata": {
+          "timestamp": "2025-10-19T15:16:56.210Z",
+          "gatewayId": "raspberry-pi-3"
+        },
+        "hash": "a81d652fd02398d14521f0ce61ad3e3202f44d2b1de657ba734c24ea4a2ab92a",
+        "input": {
+          "timestamp": 1760887016246,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "4bd6d6ba0be2f5d61d1dcc98a5de19e59d4d9a7e2475cedf1980307cb1d1c1ad",
+            "s": "b46ebecfbe46a4d7c60970ef353c67d982394487a1709b018403566bbb8a1b76",
+            "recoveryParam": 1
+          }
+        }
+      }
+    ],
+    "previousHash": "096b0b9b41b99386ae7ec754605c778dd9a42f0dc6eda7a99b63729cda66a47e",
+    "proposerPublicKey": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+    "hash": "0d0624eacec78a68140b4df592008c42a29276f8870fb01e587bf2c8def76f75",
+    "signature": {
+      "r": "1da02f4e3e4169be8e1c23596fb754f81b31273f8739321379da5025d25aa221",
+      "s": "60144b35d3bc2bc3424f7f2ce2cc3c20a3748652542b6086a1bcc51dc82275a6",
+      "recoveryParam": 1
+    },
+    "luckProof": null
+  },
+  {
+    "index": 3,
+    "timestamp": 1760887038143,
+    "transactions": [
+      {
+        "id": "a7be69b0-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887018443,
+        "sensor_id": "sensor-596",
+        "reading": { "value": 1.03 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:16:58.443Z",
+          "unit": "Celsius"
+        },
+        "hash": "5496436fdc927313988d74019304e2d6ceea92c2c7650441749d26f2e7b965ef",
+        "input": {
+          "timestamp": 1760887018444,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "f39730b245afd0d689738480268c83e3c18aa0edc234332a3cf5a312251aa8d1",
+            "s": "12a75fdbce6234b20d03df50679d6d199818863e2211687fffcdafa909d7c58d",
+            "recoveryParam": 0
+          }
+        }
+      },
+      {
+        "id": "ac647220-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887026242,
+        "sensor_id": "pi-moisture-sensor-01",
+        "reading": { "type": "moisture", "value": "dry", "unit": "state" },
+        "metadata": {
+          "timestamp": "2025-10-19T15:17:06.211Z",
+          "gatewayId": "raspberry-pi-3"
+        },
+        "hash": "f17229d0beaed11cd63468bffc10c63d6e8d405b7c91054610d23d8633b5fce7",
+        "input": {
+          "timestamp": 1760887026242,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "725a1db6b67d672be3f3055a15b838980d6cd02f630f83bd1759d913bc5f0e56",
+            "s": "fa31fee9a2d5137e7e008c772ef40c2a364e041fb0b2a72f616ffbe14f88b873",
+            "recoveryParam": 1
+          }
+        }
+      },
+      {
+        "id": "adb498d0-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887028445,
+        "sensor_id": "sensor-523",
+        "reading": { "value": 57.2 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:17:08.445Z",
+          "unit": "Celsius"
+        },
+        "hash": "07b5c85db225557bc1095cbc2fcbf78b2a1b28644b4d426b3140f78f342738c8",
+        "input": {
+          "timestamp": 1760887028446,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "8108498273931bfb1a999b679f372d7acf781f987443a6050439f3b9ed91f4a4",
+            "s": "1f5bf3636c9dc989eed7efa0db478ec621ae7266b7148900e01d1629431ddabf",
+            "recoveryParam": 1
+          }
+        }
+      },
+      {
+        "id": "b25a7a30-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887036244,
+        "sensor_id": "pi-moisture-sensor-01",
+        "reading": { "type": "moisture", "value": "dry", "unit": "state" },
+        "metadata": {
+          "timestamp": "2025-10-19T15:17:16.216Z",
+          "gatewayId": "raspberry-pi-3"
+        },
+        "hash": "c86bb6afe63562c7f635a54e42198ade037df8ae34c69fe2e75b9b7c2460c6e3",
+        "input": {
+          "timestamp": 1760887036244,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "287eb1ea646b7413d34a76d87482c4b87d4900100d6d97b94e881699daec762d",
+            "s": "4830a9762a5102047f0c33449f3cceb2547ef1c2d0ca1337b9fb7204a0432df0",
+            "recoveryParam": 1
+          }
+        }
+      }
+    ],
+    "previousHash": "0d0624eacec78a68140b4df592008c42a29276f8870fb01e587bf2c8def76f75",
+    "proposerPublicKey": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+    "hash": "da1606838bb720ae9b4eea2a25c276d1844055f40c8ebc9ee01cd6374ccb5bd7",
+    "signature": {
+      "r": "1cbd0c2751c06bfb6972501dbc3aa5f97c850638b8e88b521eb10d943eacbcd5",
+      "s": "15288fd2935406f9fd4fd95db0f37c31a8549bc51fa7e4dc36c948fc7a7db505",
+      "recoveryParam": 0
+    },
+    "luckProof": null
+  },
+  {
+    "index": 4,
+    "timestamp": 1760887058172,
+    "transactions": [
+      {
+        "id": "b3aa79d0-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887038446,
+        "sensor_id": "sensor-188",
+        "reading": { "value": 95.32 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:17:18.445Z",
+          "unit": "Celsius"
+        },
+        "hash": "2303672e3d6be0a7e1b2ad080d8685ddb4780f4b922e15a7957fe8661d4da65c",
+        "input": {
+          "timestamp": 1760887038446,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "e9f0c83ec6ffb5b3da4c346df09f21e7a80abf15f04eefab7df441333f199c97",
+            "s": "4560b7bf5de59e2d11a47155c38335016ec2c3f146b68059f874232be3102683",
+            "recoveryParam": 0
+          }
+        }
+      },
+      {
+        "id": "b9a0a8f0-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887048447,
+        "sensor_id": "sensor-665",
+        "reading": { "value": 39.38 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:17:28.447Z",
+          "unit": "Celsius"
+        },
+        "hash": "18e9869e0f4748165a938fef88d3424e977d6a33174f5df9ffea397fba87e731",
+        "input": {
+          "timestamp": 1760887048448,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "818c9c59cd5ac5d901138173c366034d41403ca4dd6e40524dd15e252ccc41bc",
+            "s": "90e53758e5bdb2ea74412a0c3bd0d6283fca18d69036c39e301e9b7d6fedd865",
+            "recoveryParam": 1
+          }
+        }
+      }
+    ],
+    "previousHash": "da1606838bb720ae9b4eea2a25c276d1844055f40c8ebc9ee01cd6374ccb5bd7",
+    "proposerPublicKey": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+    "hash": "4c945d66e9601807a5baaf53a485ea70475bdc3c02b5d51e7d8644ac0a36f973",
+    "signature": {
+      "r": "dab438da742fcdcd4d50fd4543982ec1765e239278609839d75196651a784b14",
+      "s": "d0b054fcfe8783b79731191e58ef4df0f345b882dac6a1a7f83c286015ab8c9e",
+      "recoveryParam": 0
+    },
+    "luckProof": null
+  },
+  {
+    "index": 5,
+    "timestamp": 1760887078153,
+    "transactions": [
+      {
+        "id": "bf9689f0-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887058447,
+        "sensor_id": "sensor-210",
+        "reading": { "value": 69.61 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:17:38.447Z",
+          "unit": "Celsius"
+        },
+        "hash": "9bead97e11f1bb9723906f32ded845326435b4bcd3850fb6815294ad3f9dfdb9",
+        "input": {
+          "timestamp": 1760887058448,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "dd74ee97af80bf731a9a46dbe1cecf0bdd39ac4fa8bc68a660fe5d62bbd55a4d",
+            "s": "37b48194cd166f041924ac2ced0ef40dfc0bac714739071ecc30a8d348b00e7f",
+            "recoveryParam": 1
+          }
+        }
+      },
+      {
+        "id": "c58d2e40-acfe-11f0-9c79-e3b87aadf376",
+        "timestamp": 1760887068452,
+        "sensor_id": "sensor-348",
+        "reading": { "value": 57.74 },
+        "metadata": {
+          "timestamp": "2025-10-19T15:17:48.452Z",
+          "unit": "Celsius"
+        },
+        "hash": "f63324d9e6bdb23c918a01d475132b4cb42e31be3196b4a783d17d38f1ff8ef2",
+        "input": {
+          "timestamp": 1760887068452,
+          "address": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+          "signature": {
+            "r": "50175487d2c55519eba8ef7d25eed9dee85de8873a18dd2a2bf440b80142cf75",
+            "s": "94df8898109f3396f66a756882c569aa39c638594e7480615e9f3de2f8abc3e8",
+            "recoveryParam": 1
+          }
+        }
+      }
+    ],
+    "previousHash": "4c945d66e9601807a5baaf53a485ea70475bdc3c02b5d51e7d8644ac0a36f973",
+    "proposerPublicKey": "04b3ee0a2653d3631781f0aaaf97fc472d657852ce303cc7961a8b5db81168502c3046e8e4dd2d1032a3a1a0e03ef904279ce4fe16331811fb118d5b78b94817e4",
+    "hash": "b3c81360d52f306b4c57aa38f75d664dcf12dff7ee5c4577b334c02900f8e57a",
+    "signature": {
+      "r": "88940f6f568320f096d750ff239b4d2d72ca380a0676ed52d09ec38745e907be",
+      "s": "55409bf85f5e06e2a9d63790d59b8b57d497ba09eda7afee3d315e7034a0d0a2",
+      "recoveryParam": 1
+    },
+    "luckProof": null
+  }
+]
